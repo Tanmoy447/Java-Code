@@ -12,7 +12,7 @@ public class factorial {
         sum obj=new sum();                              //creating object of class
         Scanner sc =new Scanner(System.in);
         System.out.print("Enter the number :");
-        int n=sc.nextInt();
+        int n=sc.nextInt( );
         System.out.println("the factorial is : "+ obj.fact(n));     //creating obj of methods
         sc.close();
 
