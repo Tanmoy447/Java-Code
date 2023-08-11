@@ -6,8 +6,8 @@ class swap{
         a=b;
         b=temp;
 
-        System.out.println("a :"+a);
-        System.out.println("b :"+b);
+//        System.out.println("a :"+a);
+//        System.out.println("b :"+b);
     }
 }
 public class swapTwoNumbers {
