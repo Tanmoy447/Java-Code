@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_List/Array_List.iml" filepath="$PROJECT_DIR$/Array_List/Array_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GFG/GFG.iml" filepath="$PROJECT_DIR$/GFG/GFG.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Code.iml" filepath="$PROJECT_DIR$/Java Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion_On_String/Recursion_On_String.iml" filepath="$PROJECT_DIR$/Recursion_On_String/Recursion_On_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_java/Recursion_java.iml" filepath="$PROJECT_DIR$/Recursion_java/Recursion_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort Algorithm.iml" filepath="$PROJECT_DIR$/Sort/Sort Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings in Java/Strings in Java.iml" filepath="$PROJECT_DIR$/Strings in Java/Strings in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2d_Array/_2d_Array.iml" filepath="$PROJECT_DIR$/_2d_Array/_2d_Array.iml" />
     </modules>
   </component>

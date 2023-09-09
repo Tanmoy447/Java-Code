@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class abc{
-    static int sum(){
+     int sum(){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter first number:");
         int a= sc.nextInt();

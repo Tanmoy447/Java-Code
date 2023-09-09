@@ -18,6 +18,7 @@ public class createList {
             System.out.print(arr.get(i)+" ");
         }
         System.out.println();
+        arr.s
 
         // print arraylist directly
         System.out.println(arr);
